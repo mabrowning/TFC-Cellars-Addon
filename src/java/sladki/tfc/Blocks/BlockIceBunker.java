@@ -14,7 +14,7 @@ import net.minecraft.world.World;
 import sladki.tfc.Cellars;
 import sladki.tfc.TileEntities.TEIceBunker;
 
-import com.bioxx.tfc.Core.TFCTabs;
+import com.dunk.tfc.Core.TFCTabs;
 
 public class BlockIceBunker extends BlockContainer {
 	

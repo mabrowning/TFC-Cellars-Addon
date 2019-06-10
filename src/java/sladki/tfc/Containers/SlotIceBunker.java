@@ -1,6 +1,6 @@
 package sladki.tfc.Containers;
 
-import com.bioxx.tfc.api.TFCBlocks;
+import com.dunk.tfc.api.TFCBlocks;
 
 import net.minecraft.block.Block;
 import net.minecraft.init.Blocks;

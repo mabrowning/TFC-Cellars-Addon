@@ -5,7 +5,7 @@ import io.netty.channel.ChannelHandlerContext;
 import net.minecraft.entity.player.EntityPlayer;
 import sladki.tfc.ModManager;
 
-import com.bioxx.tfc.Handlers.Network.AbstractPacket;
+import com.dunk.tfc.Handlers.Network.AbstractPacket;
 
 public class InitClientWorldPacket extends AbstractPacket
 {

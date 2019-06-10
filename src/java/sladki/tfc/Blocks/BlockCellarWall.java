@@ -1,10 +1,10 @@
 package sladki.tfc.Blocks;
 
-import com.bioxx.tfc.Blocks.BlockTerra;
-import com.bioxx.tfc.Core.TFCTabs;
-import com.bioxx.tfc.Core.TFC_Climate;
-import com.bioxx.tfc.Core.TFC_Time;
-import com.bioxx.tfc.TileEntities.TEBarrel;
+import com.dunk.tfc.Blocks.BlockTerra;
+import com.dunk.tfc.Core.TFCTabs;
+import com.dunk.tfc.Core.TFC_Climate;
+import com.dunk.tfc.Core.TFC_Time;
+import com.dunk.tfc.TileEntities.TEBarrel;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;

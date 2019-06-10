@@ -3,10 +3,10 @@ package sladki.tfc.Items.Tools;
 import net.minecraft.client.renderer.texture.IIconRegister;
 import sladki.tfc.Cellars;
 
-import com.bioxx.tfc.Core.TFCTabs;
-import com.bioxx.tfc.Items.ItemTerra;
-import com.bioxx.tfc.api.Enums.EnumSize;
-import com.bioxx.tfc.api.Enums.EnumWeight;
+import com.dunk.tfc.Core.TFCTabs;
+import com.dunk.tfc.Items.ItemTerra;
+import com.dunk.tfc.api.Enums.EnumSize;
+import com.dunk.tfc.api.Enums.EnumWeight;
 
 public class ItemIceSawHead extends ItemTerra {
 	

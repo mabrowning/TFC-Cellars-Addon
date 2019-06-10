@@ -15,7 +15,7 @@ import net.minecraft.world.World;
 import sladki.tfc.Cellars;
 import sladki.tfc.TileEntities.TECellarShelf;
 
-import com.bioxx.tfc.Core.TFCTabs;
+import com.dunk.tfc.Core.TFCTabs;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
