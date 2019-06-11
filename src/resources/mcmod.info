@@ -1,8 +1,8 @@
 [
 {
   "modid": "tfccellarsaddon",
-  "name": "TFC Cellars Addon",
-  "description": "TFC cellars and ice-houses addon",
+  "name": "TFC+ Cellars Addon",
+  "description": "TFC+ cellars and ice-houses addon",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
