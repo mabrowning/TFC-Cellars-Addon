@@ -64,7 +64,7 @@ public class TECellarShelf extends TileEntity implements IInventory {
 				}
 			}
 
-			TFC_Core.handleItemTicking(this, worldObj, xCoord, yCoord, zCoord, envDecay);
+			TFC_Core.handleItemTicking(this, worldObj, xCoord, yCoord, zCoord, envDecay, false);
 		} else {
 			cellarTick++;
 			
